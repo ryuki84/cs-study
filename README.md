@@ -30,6 +30,9 @@ CS 기초 개념을 **한글로 정리**한 학습 노트입니다.
 - 프로세스 vs 스레드
 - 컨텍스트 스위칭
 - 동기화, 락, 데드락
+- Blocking / Non-Blocking
+- CPU 스케줄링
+- 가상 메모리
 
 ### 네트워크 (Network)
 - TCP vs UDP
