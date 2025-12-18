@@ -26,8 +26,8 @@ CS 기초 개념을 **한글로 정리**한 학습 노트입니다.
 
 ## 📚 정리 대상 범위
 
-### [운영체제 (Operating System)](https://github.com/ryuki84/cs-study/tree/main/operating-system)
-- [프로세스 vs 스레드](https://github.com/ryuki84/cs-study/blob/main/operating-system/process-vs-thread.md)
+### [운영체제 (Operating System)](operating-system/os-keyword-answers.md)
+- [프로세스 vs 스레드](operating-system/process-vs-thread.md)
 - [컨텍스트 스위칭](operating-system/context-switch.md)
 - [동기화, 락, 데드락](operating-system/synchronization-lock-deadlock.md)
 - [Blocking / Non-Blocking](operating-system/blocking-nonblocking.md)
