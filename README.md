@@ -34,12 +34,12 @@ CS 기초 개념을 **한글로 정리**한 학습 노트입니다.
 - [CPU 스케줄링](operating-system/cpu-scheduling.md)
 - [가상 메모리](operating-system/virtual-memory.md)
 
-### 네트워크 (Network)
-- TCP vs UDP
-- HTTP / HTTPS
-- Keep-Alive
-- 커넥션 풀
-- [네트워크 지연](/network/netword-latency.md)
+### [네트워크 (Network)](network/network-keyword-answers.md)
+- [TCP vs UDP](network/tcp-vs-udp.md)
+- [HTTP / HTTPS](network/http-vs-https.md)
+- [Keep-Alive](network/keep-alive.md)
+- [커넥션 풀](network/connection-pool.md)
+- [네트워크 지연](network/network-latency.md)
 
 ### 데이터베이스 (Database)
 - 인덱스
