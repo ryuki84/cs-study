@@ -37,7 +37,9 @@ CS 기초 개념을 **한글로 정리**한 학습 노트입니다.
 ### 네트워크 (Network)
 - TCP vs UDP
 - HTTP / HTTPS
-- Keep-Alive, 커넥션 풀
+- Keep-Alive
+- 커넥션 풀
+- [네트워크 지연](network/netword-latency.md)
 
 ### 데이터베이스 (Database)
 - 인덱스
