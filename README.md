@@ -41,11 +41,14 @@ CS 기초 개념을 **한글로 정리**한 학습 노트입니다.
 - [커넥션 풀](network/connection-pool.md)
 - [네트워크 지연](network/network-latency.md)
 
-### 데이터베이스 (Database)
-- 인덱스
-- 트랜잭션과 격리 수준
-- 락, MVCC
-- 쿼리 성능 최적화 기본 원리
+### [데이터베이스 (Database)](db/db-keyword-answer.md)
+- [인덱스](db/index.md)
+- [트랜잭션](db/transaction.md)
+- [트랜잭션 격리 수준](db/transaction-isolation.md)
+- [락, MVCC](db/lock-and-mvcc.md)
+- [쿼리 성능 최적화 기본 원리](db/query-performance-basics.md)
+- [SQL 실행계획](db/execution-plan.md)
+- [복합 인덱스 설계](db/index-design.md)
 
 ### Java / JVM
 - JVM 메모리 구조
