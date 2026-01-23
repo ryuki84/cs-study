@@ -26,6 +26,12 @@ CS 기초 개념을 **한글로 정리**한 학습 노트입니다.
 
 ## 📚 정리 대상 범위
 
+### [Java / JVM](java-jvm/java-jvm-keyword-answers.md)
+- [JVM 메모리 구조](java-jvm/jvm-memory-structure.md)
+- [GC 기본 원리](java-jvm/gc-basics.md)
+- [GC 알고리즘](java-jvm/gc-algorithms.md)
+- [JVM 튜닝 기본](jvm-tuning-basics.md)
+  
 ### [운영체제 (Operating System)](operating-system/os-keyword-answers.md)
 - [프로세스 vs 스레드](operating-system/process-vs-thread.md)
 - [컨텍스트 스위칭](operating-system/context-switch.md)
@@ -50,10 +56,10 @@ CS 기초 개념을 **한글로 정리**한 학습 노트입니다.
 - [SQL 실행계획](db/execution-plan.md)
 - [복합 인덱스 설계](db/index-design.md)
 
-### Java / JVM
-- JVM 메모리 구조
-- GC 기본 원리
-- 멀티스레드 환경에서의 주의점
+### [Spring 트랜잭션 & JVM 연계](spring-transaction-jvm/spring-transaction-jvm-keyword-answers.md)
+- [트랜잭션 경계 설계](spring-transaction-jvm/transaction-boundary-design.md)
+- [커넥션 풀 → 스레드 → GC 연쇄](spring-transaction-jvm/connection-pool-thread-gc-chain.md)
+- [트랜잭션 전파 실무](spring-transaction-jvm/transaction-propagation-practice.md)
 
 ---
 
